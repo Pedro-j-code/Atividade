@@ -1,5 +1,5 @@
 # Atividade
-Lista de Exercícios
+Lista de Exercícios:
 
 1 Percorrendo uma Lista
 Crie uma função que receba uma lista como argumento e percorra todos os seus elementos, imprimindo cada um na tela.
